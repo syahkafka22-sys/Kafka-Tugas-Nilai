@@ -1,0 +1,5 @@
+nilai_ujian = 80
+kehadiran = 85
+
+lulus = (nilai_ujian >= 75) and (kehadiran >= 80)
+print(lulus)
